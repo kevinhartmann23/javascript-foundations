@@ -1,5 +1,5 @@
 # JavaScript Foundations
-
+## ARCHIVED - For javascript foundations practice
 Each exercise emphasizes the fundamentals of object oriented programming in JavaScript.
 
 To begin, `cd` into each of the directories and follow the instructions in the README.
